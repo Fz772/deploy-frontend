@@ -82,4 +82,7 @@ body {
 .error {
   color: #b91c1c;
 }
+h1,h2 {
+  color:black;
+}
 </style>
